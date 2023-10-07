@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TashaYusni
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning phthon and C++
+- 🌱 I’m currently learning python and C++
 - 📫 How to reach me at natashayusni5414@gmail.com
 
 <!---
